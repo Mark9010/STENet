@@ -4,7 +4,7 @@ This repository contains the code for our paper **"STENet: Superpixel Token Enha
 
 ### 📢 Updates
 - **[April 2026]** Paper accepted by IEEE TMM! Code is being organized and will be released soon.
-- Salient maps are available at： https://pan.baidu.com/s/1vKO0cB11jdKOWRKIkDZStw?pwd=35ad 提取码: 35ad
+- Salient maps are available at： 链接: https://pan.baidu.com/s/1CbGg1K9yw-i7ciqOqhoi-Q?pwd=teig 提取码: teig
 
 ### 📝 Citation
 If you use the comparison metrics or find this work helpful in your research, please cite our paper:
